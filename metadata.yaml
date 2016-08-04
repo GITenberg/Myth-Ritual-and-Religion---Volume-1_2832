@@ -1,0 +1,32 @@
+_repo: Myth-Ritual-and-Religion---Volume-1_2832
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_bookshelf:
+- Paganism
+- Mythology
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2832'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rites and ceremonies'
+- !lcsh 'Myth'
+- !lcc 'BL'
+- !lcsh 'Religion'
+- !lcsh 'Mythology'
+- GITenberg
+title: Myth, Ritual and Religion, Vol. 1 (of 2)
+url: http://www.gutenberg.org/ebooks/2832
